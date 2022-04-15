@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.goblin
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jpa, gradle, hibernate-jpa, http-client, jackson-databind, jdbc-hikari, junit, kafka, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, mockito, netty-server, postgres, readme, security-annotations, security-jwt, shade, testcontainers, yaml]
